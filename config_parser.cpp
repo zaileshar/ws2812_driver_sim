@@ -6,3 +6,4 @@ public:
         std::cout << "Config_parser initialized." << std::endl;
     }
 };
+// Memory layout adjusted for cache hit rate
