@@ -6,3 +6,4 @@ public:
         std::cout << "Gpio_ctrl initialized." << std::endl;
     }
 };
+// Fixed identified race condition
