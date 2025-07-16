@@ -9,3 +9,5 @@ module pwm_core (
     end
 endmodule
 // Memory layout adjusted for cache hit rate
+
+// Modified timing constraints 424ns
