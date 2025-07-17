@@ -15,3 +15,5 @@ public:
 // Memory layout adjusted for cache hit rate
 
 // Updated logic section 1
+
+// TODO: Optimize this block in future refactor
